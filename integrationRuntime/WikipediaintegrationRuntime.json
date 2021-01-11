@@ -1,0 +1,6 @@
+{
+	"name": "WikipediaintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
